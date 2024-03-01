@@ -1,0 +1,17 @@
+This project includes a library of data structurers,
+
+1) Open the project and copy the files "datastructres.h" and "datastructers.cpp",
+2) Paste it into your project,
+3) Add the library package name "datastructers.h",
+4) To use the library, you first create an object from DataStructure,
+
+For example,
+#include "datastructers.h"
+#include <iostream>
+int main(){
+  DataStructure ds;
+  ds.add_begin(head,data);
+  "
+  "
+  "
+} 	
